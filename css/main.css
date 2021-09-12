@@ -1,0 +1,54 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+    color: #201b2d;
+    padding: 0;
+    margin: 0;
+    background-color: #86e4a5;
+}
+
+h1, h2 {
+	margin: 0;
+	font-weight: 700;
+    text-align: center;
+}
+
+.container {
+    padding-top: 70px;
+    text-align: center;
+    font-size: 35px;    
+}
+
+.profession {
+    margin-top: 0px;
+}
+
+.all-information {
+    text-align: center;
+    padding-top: 100px;
+    width: 1000px;
+    display: flex;
+    border: 0px;
+    margin: auto;
+    
+    
+}
+
+.main-content {
+    
+    text-align: left;
+    margin-right: 5px;
+    background-color: #64e48f;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.contacts {
+    text-align: right;
+    background-color: #29f76e;
+    padding: 0;
+    margin: 0;
+    
+    
+}
