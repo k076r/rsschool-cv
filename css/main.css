@@ -4,7 +4,7 @@ body {
     color: #201b2d;
     padding: 0;
     margin: 0;
-    background-color: #86e4a5;
+    background-color: #d8e7dd;
 }
 
 h1, h2 {
@@ -30,25 +30,20 @@ h1, h2 {
     display: flex;
     border: 0px;
     margin: auto;
-    
-    
 }
 
 .main-content {
     
     text-align: left;
     margin-right: 5px;
-    background-color: #64e48f;
+    background-color: #7aa888;
     padding: 0;
     margin: 0;
-    
 }
 
 .contacts {
     text-align: right;
-    background-color: #29f76e;
+    background-color: #4f8862;
     padding: 0;
-    margin: 0;
-    
-    
+    margin: 0;  
 }
