@@ -84,9 +84,20 @@ h2 {
 
 .end {
   background-color: #026824;
-  text-align: center;
   width: 1100px;
   display: flex;
   border: 0px;
   margin: auto;
+  vertical-align: middle;
+}
+
+.github {
+  color: rgb(0, 140, 233);
+  padding-left: 270px;
+}
+
+.year {
+  margin-left: 10px;
+  color: rgb(0, 140, 233);
+  padding-left: 380px;
 }
