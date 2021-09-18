@@ -1,0 +1,103 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 25px;
+  color: #201b2d;
+  padding: 0;
+  margin: 0;
+  background-color: #d8e7dd;
+}
+
+h1,
+h2 {
+  margin: 0;
+  font-weight: 700;
+  text-align: center;
+}
+
+.container {
+  padding-top: 70px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.profession {
+  margin-top: 0px;
+}
+
+.all-information {
+  text-align: center;
+  padding-top: 100px;
+  width: 1100px;
+  display: flex;
+  border: 0px;
+  margin: auto;
+}
+
+.main-content {
+  text-align: left;
+  margin-right: 5px;
+  background-color: #7aa888;
+  padding: 0;
+  margin: 0;
+  width: 900px;
+}
+
+.contacts {
+  text-align: right;
+  background-color: #4f8862;
+  padding: 0;
+  margin: 0;
+  width: 500px;
+}
+
+.tel-number {
+  background: url("../image/telephone.png") no-repeat top;
+  background-size: contain;
+  background-position: left;
+  margin-left: 5px;
+  margin-right: 150px;
+}
+
+.email {
+  background: url("../image/arroba.png") no-repeat top;
+  background-size: contain;
+  background-position: left;
+  margin-left: 5px;
+  margin-right: 110px;
+}
+
+.discord {
+  background: url("../image/discord.png") no-repeat top;
+  background-size: contain;
+  background-position: left;
+  margin-left: 5px;
+  margin-right: 285px;
+}
+
+.location {
+  background: url("../image/placeholder.png") no-repeat top;
+  background-size: contain;
+  background-position: left;
+  margin-left: 5px;
+  margin-right: 95px;
+}
+
+.end {
+  background-color: #026824;
+  width: 1100px;
+  display: flex;
+  border: 0px;
+  margin: auto;
+  vertical-align: middle;
+}
+
+.github {
+  color: rgb(0, 140, 233);
+  padding-left: 270px;
+}
+
+.year {
+  margin-left: 10px;
+  color: rgb(0, 140, 233);
+  padding-left: 380px;
+}
